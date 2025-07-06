@@ -1,0 +1,10 @@
+Item Name,Why I need it,Quantity,Price,Price Total,Link
+PCB,To connect everythin,2 because thats the minimum you can get on jlc pcb,$2.00,$4.00,https://jlcpcb.com
+LEDs,To show which button to pres,4,$0.00,$0.00,I already have this
+OLED,To  display messages such as score and game over,1,$0.00,$0.00,I already have this
+RESISTOR,to prevent led and mcu from damage,4,$0.00,$0.00,I already have this
+MCU,to controll everything,1,$0.00,$0.00,I already have this
+BUTTONs,to record wheather to increment their score or game over,4,$0.00,$0.00,I already have this
+Nuts,To hold everything together,4,$0.00,$0.00,I already have this
+Screws,To hold everything together,4,$0.00,$0.00,I already have this
+Price Total:,$4.00,,,,

@@ -20,13 +20,15 @@ picture of pcb
 
 ## BOM
 
-| Item Name | Why I need It                 | Quantity                 | Price | Price Total | Link                      |
-| --------- | ----------------------------- | ------------------------ | ----- | ----------- | ------------------------- |
-| PCB       | To connect everything         | 2 because its min on jlc | $2.00 | $4.00       | [JLC](https://jlcpcb.com) |
-| LEDs      | To show which button to press | 4                        | $0.00 | $0.00       | I already have this       |
-| OLED      | To display messages such as score and game over| 1                        | $0.00 | $0.00       | I already have this       |
-| RESISTOR  |to prevent led and mcu from damage | 4                        | $0.00 | $0.00       | I already have this       |
-| MCU       | to controll everything | 1                        | $0.00 | $0.00       | I already have this       |
+| Item Name | Why I need It                                            | Quantity                 | Price | Price Total | Link                      |
+| --------- | -------------------------------------------------------- | ------------------------ | ----- | ----------- | ------------------------- |
+| PCB       | To connect everything                                    | 2 because its min on jlc | $2.00 | $4.00       | [JLC](https://jlcpcb.com) |
+| LEDs      | To show which button to press                            | 4                        | $0.00 | $0.00       | I already have this       |
+| OLED      | To display messages such as score and game over          | 1                        | $0.00 | $0.00       | I already have this       |
+| RESISTOR  |to prevent led and mcu from damage                        | 4                        | $0.00 | $0.00       | I already have this       |
+| MCU       | to controll everything                                   | 1                        | $0.00 | $0.00       | I already have this       |
 | BUTTONs   | to record wheather to increment their score or game over | 4                        | $0.00 | $0.00       | I already have this       |
+| Screws    | To hold it all together                                  | 4                        | $0.00 | $0.00       | I already have this       |
+| Nuts      | To hold it all together                                  | 4                        | $0.00 | $0.00       | I already have this       |
 
 It all adds up to $4.00
